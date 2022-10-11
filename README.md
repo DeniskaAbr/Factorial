@@ -1,2 +1,1 @@
 "# Factorial" 
-"# Factorial" 
